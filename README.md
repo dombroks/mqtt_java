@@ -1,5 +1,8 @@
 # MQTT_JAVA
-## Simple desktop app built with javaFX and mqtt 
+## Simple desktop app built with javaFX.
+
+Note:This project is built in order to simulate a smart house.
+
 ### What to do ?
 1.Donwnload the code.
 
